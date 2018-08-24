@@ -1,0 +1,9 @@
+{
+  "name": "Example Plugin in FlexCMS",
+  "description": "Example Plugin in FlexiCMS",
+  "version": "1.0",
+  "author": "Sabyrov Beksultan",
+  "options": {
+    "responseFile": "ExamplePlugin"
+  }
+}
